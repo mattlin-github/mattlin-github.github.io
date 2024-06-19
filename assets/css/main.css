@@ -1903,7 +1903,7 @@ input, select, textarea {
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
-	input[type="search"],
+	input[type="search"],textarea
 	input[type="url"],
 	select,
 	textarea {
@@ -1961,7 +1961,7 @@ input, select, textarea {
 		}
 
 		select:focus::-ms-value {
-			background-color: transparent;
+			background-color: white;
 		}
 
 		select::-ms-expand {
