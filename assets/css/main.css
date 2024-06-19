@@ -1911,9 +1911,9 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(250, 246, 250, 0.035);
+		background: rgba(247, 244, 247, 0.035);
 		border: none;
-		border-radius: 2;
+		border-radius: 10;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -1941,8 +1941,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #9bf1ff;
-			box-shadow: 0 0 0 2px #9bf1ff;
+			border-color: #fa4499;
+			box-shadow: 0 0 0 2px #fa4499;
 		}
 
 	select {
